@@ -1,7 +1,7 @@
 {
-  "name": "Simple-Whatsapp-Bot",
+  "name": "Whatsapp-Bot",
   "description": "Sexy El Que Lo Lea 7w7",
-  "repository": "https://github.com/NeKosmic/NK-BOT-MD/",
+  "repository": "https://github.com/cagthegame/BOT-MD",
   "logo": "https://i.ibb.co/VjF33JW/images-8.jpg",
   "keywords": ["nodejs", "whatsapp-bot", "multi-device"],
   "buildpacks": [
