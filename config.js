@@ -17,15 +17,15 @@ const dPkg = require(join(__dirname, './package.json'))
 //
 global.MultiNK = es; //Lenguaje nativo XD 
 global.Propietario = dPkg.author.name //Nombre obtenido de package.json
-global.OwnerNum = '51995386439' //Tu número como dueño del bot •>•
-global.PaisPrefix = '51' //Prefijo telefónico de tu pais 
+global.OwnerNum = '5215591478197' //Tu número como dueño del bot •>•
+global.PaisPrefix = '52' //Prefijo telefónico de tu pais 
 global.Prefijo = '.' //Símbolo, número, letra o emoji. para usar los comandos 
 global.MyApiKey = 'nekosmic' //zzz
-global.NombreDelBot = 'NK-BOT' //Nombre del bot
+global.NombreDelBot = 'CRXS-BOT' //Nombre del bot
 global.BotVersion = dPkg.version //Versión obtenido de package.json
-global.TusRedesSociales = "[ > ] Canal de Youtube:\n- https://youtube.com/channel/UC_Pp8pT9vbT15k5_-i6oseA\n\n[ f ] Página de Facebook:\n- https://fb.watch/b7pj-i5ejP/\n\n[Ꮄ] Tiktok:\n- https://vm.tiktok.com/ZMLjAbySN/\n\nᴺᵒ ᵖᶦᵈᵒ ᵈᶦⁿᵉʳᵒ⁻ ˢᵒˡᵒ ᶜᵒⁿ ᵗᵘ ᵃᵖᵒʸᵒ ˢᵒʸ ᶠᵉˡᶦᶻ  :³" //Aqui pueden poner sus redes sociales, etc...
+global.TusRedesSociales = "[ > ] Canal de Youtube:\n- https://www.youtube.com/channel/UCh9NddYgaefiqaiLGmQmFng\n\nRepositorio:\n- https://github.com/cagthegame/\n\nᴺᵒ ᵖᶦᵈᵒ ᵈᶦⁿᵉʳᵒ⁻ ˢᵒˡᵒ ᶜᵒⁿ ᵗᵘ ᵃᵖᵒʸᵒ ˢᵒʸ ᶠᵉˡᶦᶻ  :³" //Aqui pueden poner sus redes sociales, etc...
 global.UsLimitesCmd = '20' //límite para usar al bot
-global.MinimoDeUsuarios = '2' //Cantidad mínima de participantes en un grupo para que el bot pueda unirse ._.
+global.MinimoDeUsuarios = '20' //Cantidad mínima de participantes en un grupo para que el bot pueda unirse ._.
 global.FakeList = ['20', '21', '22', '23', '24', '25', '26', '27', '28', '29', '30', '31', '32', '33', '34', '35', '36', '37', '38', '39', '40', '41', '42', '43', '44', '45', '46', '47', '48', '49', '60', '61', '62', '63', '64', '65', '66', '67', '68', '69', '7', '80', '81', '82', '83', '84', '85', '86', '87', '88', '89', '90', '91', '92', '93', '94', '95', '96', '97', '98', '99'] //Aqui pueden colocar los números falsos o que no les agrade, seran eliminados automáticamente al activar el antifakes2 en un grupo :v //
 
 global.multiplier = 1000 //Multiplicador para nivel, si pones un valor alto mayor sera la dificultad para subir de nivel :u
