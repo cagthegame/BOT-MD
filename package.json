@@ -1,7 +1,7 @@
 {
-    "name": "NK-BOT",
+    "name": "KUAKER-BOT",
     "version": "1.0.0",
-    "description": "WhatsApp bot NK versión Multidevice espero te guste :3",
+    "description": "WhatsApp bot versión Multidevice espero te guste :3 By CRXS OFC",
     "main": "nkbot.js",
     "type": "module",
     "directories": {
